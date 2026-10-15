@@ -1,0 +1,6 @@
+{
+  "name": "Acute Leukaemia Basketball Fundraiser Festival",
+  "description": "Community-powered dual-impact basketball tournament raising vital funds for acute leukaemia patient care and empowering vulnerable street children and youth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
